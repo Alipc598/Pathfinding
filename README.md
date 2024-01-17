@@ -35,3 +35,6 @@ For any queries or further discussion related to this project, please open an is
 - The A* and Branch and Bound algorithms are well-documented in the field of computer science, and their comparative analysis provides valuable insights into pathfinding in various applications.
 - Thanks to the community contributors and to all the researchers whose work has laid the foundation for these algorithms.
 
+## Reference
+This project is based on the comprehensive insights and methodologies presented in the paper "A Systematic Literature Review of A Pathfinding." This paper forms the foundation upon which the comparative analysis of the A* and Branch and Bound algorithms is built.
+
